@@ -8,7 +8,7 @@ In this assignment, you will be doing Bayesian probabilistic estimation. Please 
 
 A scanned copy of your completed work must be submitted on Blackboard for reference purposes.
 
-For **Part 3*, you must solve the problem using the provided [python notebook]().
-* submit your notebook on Blackboard.
+For Part 3, it is required to solve the problem using the provided [python notebook](https://github.com/alimoorreza/CS128-SP25-Assignment-2/blob/main/cs128_assignment_2_bayes_filtering_start.ipynb).
+* submit your python notebook on Blackboard.
 
 
